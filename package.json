@@ -1,0 +1,25 @@
+{
+  "name": "google-doodle-search",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "Command Line Tool to search Goodle Doodles for keywords and write to a CSV file",
+  "author": "TalkLounge <talklounge@yahoo.de> (https://github.com/TalkLounge)",
+  "repository": "github:TalkLounge/google-doodle-search",
+  "homepage": "https://github.com/TalkLounge/google-doodle-search#readme",
+  "bugs": "https://github.com/TalkLounge/google-doodle-search/issues",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^8.3.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "google",
+    "doodle",
+    "search",
+    "filter",
+    "info"
+  ]
+}
