@@ -1,6 +1,11 @@
 # Google Doodle Search
 Command Line Tool to search Goodle Doodles for keywords and write to a CSV file
 
+**Unfortunately the Google Doodle Website got completly reworked and now uses reCaptcha. Therefore this script doesn't work anymore.  
+But the new Search does cover the functionality of this script completely: [Google Doodle Search](https://doodles.google/search/)**
+
+**To get notified about new specific doodles check my other updated project: [Google Doodle Notification](https://github.com/TalkLounge/google-doodle-notification)**
+
 ## Table of Contents
 - [Google Doodle Search](#google-doodle-search)
   - [Table of Contents](#table-of-contents)
